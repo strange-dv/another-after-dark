@@ -190,6 +190,7 @@ a:hover {
 .hack blockquote, .hack code, .hack footer, .hack h1, .hack h2, .hack h3, .hack h4, .hack h5, .hack h6, .hack header, .hack li, .hack ol, .hack p, .hack section, .hack ul {
   float: none;
   margin: 0;
+  margin-bottom: 1.75rem;
   padding: 0
 }
 
@@ -224,7 +225,7 @@ a:hover {
 
 .hack h2, .hack h3, .hack h4, .hack h5, .hack h6 {
   position: relative;
-  margin-bottom: 1.75rem
+  margin-bottom: 0.75rem
 }
 
 .hack h2:before, .hack h3:before, .hack h4:before, .hack h5:before, .hack h6:before {
